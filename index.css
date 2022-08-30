@@ -1,0 +1,228 @@
+
+body{
+    margin: 0px;
+}
+.Header{
+    background-color:#128c7e ;
+    width: 100%;
+    height: 90px;
+}
+.image{
+    margin: 25px;
+    padding-left: 125px;
+    float: left;
+}
+.text{
+    float: left;
+    padding-left: 55px;
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 60px;
+   
+}
+.left-section{
+    width: 50%;
+}
+
+.right-section{
+    width: 50%;
+    margin-left: 700px;
+}
+
+.option{
+    color: rgb(246, 246, 250);
+    background-color: #128c7e;
+    border-color: #128c7e;
+    padding: 4px;
+    padding-left: 20px;
+    
+    
+}
+.material-symbols-outlined{
+    padding-left: 35px;
+    padding-top: 30px;
+    font-size: 15px;
+    color: white;
+}
+.header div{
+    direction: flex;
+}
+.msg{
+    font-size: 33px;
+    line-height: 43px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 280px;
+    padding-top: 95px;
+    float: left;
+}
+
+.msg1{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    float: left;
+    padding-left: 280px;
+}
+.msg2{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+    letter-spacing: inherit;
+    line-height: 26px;
+    float: left;
+    color: rgb(75, 74, 74);
+    padding-left: 280px;
+    
+}
+.image1{
+    width: 45%;
+    height: 600px;
+    padding-left: 50px;
+    padding-top: 68px;
+}
+.list{
+    padding-left: 285px;
+    color: #128c7e;
+    line-height: 40px;
+    font-size: 20px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    float: left;
+}
+.center{
+    padding-top: 55px;
+}
+.left-para{
+    width: 49%;
+    height: 806px;
+    background-color: #D8E8EA;
+    float: left;
+}
+.about{
+    font-family:  Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 44px;
+    padding-top: 20px;
+    text-align: center;
+}
+.about1{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+.about2{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+
+}
+.image2{
+    width: 330px;
+    padding-left: 160px;
+    padding-top: 70px;
+    
+}
+.right-para{
+    width: 49%;
+    height: 806px;
+    background-color: #eaeaf1;
+    float: right;
+}
+.image3{
+padding-left: 90px;
+padding-top: 60px;
+}
+.security{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #5E5E5E;
+    text-align: center;
+    font-size: 16px;
+}
+.security1{
+    font-size: 34px;
+    line-height: 44px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+.security2{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+.image4{
+    padding-left: 560px;
+    padding-top: 50px;
+}
+.footer{
+    width: 100%;
+    height: 460px;
+    background-color:  #2e3136;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    
+}
+.box1{
+    width: 16%;
+    height: 350px;
+    background-color: #2e3136;
+    margin-top: 63px;
+}
+.innerbox{
+    width: 77%;
+    height: 250px;
+    padding-top: 10px;
+    background-color: #2e3136;
+}
+.heading{
+    padding-left: 20px;
+    color: #FFFFFF;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #2e3136;
+
+}
+.ab{
+    color: #FFFFFF;
+    font-size: 18px;
+    padding-left:20px ;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.box2{
+    width: 100%;
+    height: 80px;
+    background-color: #1c1e21;
+}
+.last1{
+    float: left;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 120px;
+}
+.last2{
+    float: right;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-right: 120px;
+}
